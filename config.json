@@ -1,0 +1,18 @@
+{
+	"network":"testnet", 
+	"version": "v3",
+
+	"privateKey": "0a73cf10db27daf72c39656d1f03b9da817fd550b7e93d512ef3d3e9fe69f8f5",
+	"from": "0x90247A33c76F61F5238eA5a887227cB247B1E4B5",
+
+	"Ropsten_Erc20Address": "", 
+	"Matic_Erc20Address": "",
+	
+	"Ropsten_Erc721Address": "", 
+	"Matic_Erc721Address": "",
+	
+	"Ropsten_WEthAddress": "", 
+	"Matic_WEthAddress": "",
+	
+	"value": "" 
+}
